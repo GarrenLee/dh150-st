@@ -1,0 +1,17 @@
+h1 {
+color:blue;
+font-family:darkcyan; 
+padding: 50px solid fuchsia;
+}
+
+p{
+    color:darkseagreen;
+}
+
+h2{
+    color:dodgerblue;
+}
+
+body{
+    background-color:palegreen;
+}
